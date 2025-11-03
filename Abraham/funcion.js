@@ -1,0 +1,1 @@
+boton = document.getElementById("botoncito");
